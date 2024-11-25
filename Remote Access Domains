@@ -1,3 +1,4 @@
+{
         "teamviewer.com",
         "anydesk.com",
         "airdroid.com",
@@ -36,4 +37,4 @@
         "cyberlink.com",
         "backblaze.com",
         "dashlane.com",
-        "cnn.com"
+    };
