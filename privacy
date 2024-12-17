@@ -1,0 +1,33 @@
+# Privacy Policy for Scammer Defence
+
+**Last Updated: [Current Date]**
+
+## Overview
+Scammer Defence is committed to protecting your privacy. Our app operates with a strict no-data-collection policy.
+
+## Data Collection
+Scammer Defence:
+- Does NOT collect any personal information
+- Does NOT track user activity
+- Does NOT use advertising
+- Does NOT share any data with third parties
+- Does NOT store any user data on external servers
+
+## Network Traffic
+- All network monitoring is performed locally on your device
+- No traffic data is transmitted outside your device
+- No logs are sent to external servers
+
+## Permissions
+The app requires certain Android permissions solely for its security functions:
+- Internet access: Required to monitor network traffic
+- Network state: Required to provide protection features
+- Foreground service: Required to maintain protection active
+- Boot completion: Optional, to restart protection after device reboot
+- Notifications: To alert you about security events
+
+## Changes to This Policy
+We will update this privacy policy as needed to ensure it accurately reflects our practices.
+
+## Contact
+If you have questions about this privacy policy, please contact us at [Your Contact Email]
